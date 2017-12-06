@@ -1,3 +1,3 @@
-# adventofcode2017
-My solutions for Advent of Code 2017
-(to be updated as we go...)
+# Advent of Code 2017
+http://adventofcode.com/2017
+My solutions (to be updated as we go...)
