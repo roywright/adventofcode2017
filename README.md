@@ -5,6 +5,9 @@ Solutions posted daily until December 25. In the spirit of competition, I'm writ
 
 <pre>      <span>--------Part 1--------</span>   <span>--------Part 2--------</span>
 Day   <span>    Time   Rank  Score</span>   <span>    Time   Rank  Score</span>
+ 23   16:48:40   3305      0   22:41:25   2629      0
+ 22   00:14:52    116      0   00:23:12    132      0
+ 21   01:50:30    424      0   01:51:16    395      0
  20   00:17:21    241      0   00:26:26    169      0
  19   13:50:09   3642      0   13:54:03   3564      0
  18   00:11:28     72     29   00:39:01     91     10
