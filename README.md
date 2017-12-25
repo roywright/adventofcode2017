@@ -1,7 +1,7 @@
 # Advent of Code 2017
 http://adventofcode.com/2017
 
-I posted my solutions daily from December 6 through 25, although in some cases I didn't have a chance to sit down and start a puzzle for a while (maybe even the next day). In the spirit of competition, I wrote the code as fast as possible, so elegance and explanatory comments are minimal.
+Elegance and explanatory comments are minimal, since I generally wrote my code as fast as possible, in the spirit of competition. But in some cases I didn't have a chance to sit down and start a puzzle for a while &mdash; maybe even the next day.
 
 <pre>      <span>--------Part 1--------</span>   <span>--------Part 2--------</span>
 Day   <span>    Time   Rank  Score</span>   <span>    Time   Rank  Score</span>
