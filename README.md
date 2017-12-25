@@ -1,10 +1,11 @@
 # Advent of Code 2017
 http://adventofcode.com/2017
 
-Solutions posted daily until December 25. In the spirit of competition, I'm writing the code as fast as possible, so elegance and explanatory comments are minimal.
+I posted my solutions daily from December 6 through 25, although in some cases I didn't have a chance to sit down and start a puzzle for a while (maybe even the next day). In the spirit of competition, I wrote the code as fast as possible, so elegance and explanatory comments are minimal.
 
 <pre>      <span>--------Part 1--------</span>   <span>--------Part 2--------</span>
 Day   <span>    Time   Rank  Score</span>   <span>    Time   Rank  Score</span>
+ 25   03:34:57   1207      0   03:36:08   1066      0
  24   00:22:13    170      0   00:23:31    131      0
  23   16:48:40   3305      0   22:41:25   2629      0
  22   00:14:52    116      0   00:23:12    132      0
